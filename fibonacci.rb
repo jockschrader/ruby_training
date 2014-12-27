@@ -1,3 +1,7 @@
+#!/usr/bin/env ruby
+
+# this is a test ruby programme to calculate fibonacci numbers 
+
 def fib(i)
 	if i.zero?
 		0
